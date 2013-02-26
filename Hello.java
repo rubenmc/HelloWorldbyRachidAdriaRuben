@@ -1,11 +1,12 @@
-// Java hello world program by RAR inc.
+/*
+ *Java hello world program by RAR inc.
+ */
 class Hello
 {
-  // main methode
+  // main method
   public static void main ( String[] args )        
   {
-    // display message "Hello world"
+    // display message
     System.out.println("Hello world");
-    System.out.println("By Adria");
   }
 }
